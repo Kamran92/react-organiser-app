@@ -1,0 +1,18 @@
+.colorRed {
+  color: red;
+}
+
+.colorSilver {
+  color: silver;
+}
+
+.td {
+  padding: 5px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
